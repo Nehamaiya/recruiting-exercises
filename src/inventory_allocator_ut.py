@@ -59,8 +59,6 @@ class TestInventoryAllocator(unittest.TestCase):
         self.assertEqual(expectedresult, str(actualtresult))
         
   
-
-
 if __name__ == '__main__':
     unittest.main()
 
